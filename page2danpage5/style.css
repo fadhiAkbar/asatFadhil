@@ -135,7 +135,7 @@ nav {
 #gambar-hal-1 {
     width: 105%;
     height: 400px;
-    background-image: url(/images/cat-hal1.svg);
+    background-image: url(../images/cat-hal1.svg);
     background-size: cover;
     object-fit: cover;
     background-position: center;
